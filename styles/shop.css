@@ -94,6 +94,12 @@ background: rgba(71, 125, 17, 0.15);
     padding-left: 280px;
     margin-top: 20px;
  }
+ .flower5 {
+    padding: 30px 20px 0px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
  footer {
     background: #0b0d17;
     width: 1350px;
